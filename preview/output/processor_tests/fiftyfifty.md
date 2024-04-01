@@ -25,5 +25,8 @@ Fifty fifty test - long and short processes
 
 ## Summary
 
-=== REPLACE THIS WITH SUMMARY ===
+Best algorithms in terms of lowest _average waiting time_: 
+1. **SJF**
+2. LCFS
+3. FCFS
 

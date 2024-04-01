@@ -22,5 +22,7 @@ Programs running simultaneously in rotation with 12 unique pages each, process q
 
 ## Summary
 
-=== REPLACE THIS WITH SUMMARY ===
+Best algorithms in terms of lowest _number of errors_: 
+1. **LRU** ex aequo **FIFO**
+3. LFU
 

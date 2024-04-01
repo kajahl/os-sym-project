@@ -22,5 +22,7 @@ Basic test with parameters selected to check the operation of the algorithm (25 
 
 ## Summary
 
-=== REPLACE THIS WITH SUMMARY ===
-
+Best algorithms in terms of lowest _number of errors_: 
+1. **LFU**
+2. LRU
+3. FIFO

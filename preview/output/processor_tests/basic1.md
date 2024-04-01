@@ -25,5 +25,8 @@ Basic test with parameters selected to check the correctness of the algorithm im
 
 ## Summary
 
-=== REPLACE THIS WITH SUMMARY ===
+Best algorithms in terms of lowest _average waiting time_: 
+1. **SJF**
+2. FCFS
+3. LCFS
 

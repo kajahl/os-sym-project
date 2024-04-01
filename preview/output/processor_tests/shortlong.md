@@ -25,5 +25,8 @@ A test containing first short, then long processes
 
 ## Summary
 
-=== REPLACE THIS WITH SUMMARY ===
+Best algorithms in terms of lowest _average waiting time_: 
+1. **SJF**
+2. FCFS
+3. LCFS
 

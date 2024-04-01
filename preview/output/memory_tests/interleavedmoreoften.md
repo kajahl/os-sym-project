@@ -22,5 +22,7 @@ A queue of 512 processes dominated by processes from the range [1, 16]. 42 (i.e.
 
 ## Summary
 
-=== REPLACE THIS WITH SUMMARY ===
-
+Best algorithms in terms of lowest _number of errors_: 
+1. **LFU**
+2. LRU
+3. FIFO

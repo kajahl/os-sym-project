@@ -1,4 +1,4 @@
-from src.Main import Main
+from src.Main import Maing
 import argparse
 
 # Argumenty do uruchamiania programu

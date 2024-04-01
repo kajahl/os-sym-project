@@ -22,5 +22,8 @@ Random Processes - Memory Size: 16, Unique Pages: 32, Queue Length: 1024, Extra 
 
 ## Summary
 
-=== REPLACE THIS WITH SUMMARY ===
+Best algorithms in terms of lowest _number of errors_: 
+1. LFU
+2. **LRU** ex aequo **FIFO**
+
 
