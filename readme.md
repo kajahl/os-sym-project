@@ -31,7 +31,7 @@ For example, to run all simulations, you would use:
 
 ## Project structure
 
-### Folder: [`input`](input)
+### Directory: [`input`](input)
 - [`memory_tests`](input/memory_tests): Contains text files with tests for page replacement algorithms 
 
 _Test case file description for page replacement algorithms is available: [Here](preview/input/memory_tests/inputStructure.md)_
@@ -40,7 +40,7 @@ _Test case file description for page replacement algorithms is available: [Here]
 
 _Test case file description for CPU time scheduling algorithms is available: [Here](preview/input/processor_tests/inputStructure.md)_
 
-### Folder: [`output`](output)
+### Directory: [`output`](output)
 
 Subfolders contains both - text files with raw results and images showing visual results for better analysis
 
@@ -58,24 +58,30 @@ _Output file structure for specific test and used (memory) algorithm is describe
 
 _Output file structure for specific test and used (processor) algorithm is described: [Here](preview/output/processor_tests/outputStructure.md)_
 
-### Folder: [`preview`](preview)
+### Directory: [`preview`](preview)
 
 This folder contains the results of my tests for a report summarizing and comparing the performance of the algorithms
 Report is available as a `README.md` files in dedicated folders
 
 _Click [here](preview/readme.md) to go to the algorithm results for my test cases._
 
-### Folder: [`src`](src)
+### Directory: [`src`](src)
 
 Most of objects/class/method/fields, even obevious, are described in detail due to college course requirements
 
 ```
 📦src
+ ┣ 📂generators
+ ┃ ┣ 📜ProcessGenerator.py
+ ┃ ┣ 📜QueueGenerator.py
+ ┃ ┗ 📜ReadmeGenerator.py
  ┣ 📂managers
  ┃ ┣ 📜FileManager.py
+ ┃ ┣ 📜TestsManager.py
  ┃ ┗ 📜PlotManager.py
  ┣ 📂objects
  ┃ ┣ 📜ATestCase.py
+ ┃ ┣ 📜ATestResult.py
  ┃ ┗ 📜SummaryTable.py
  ┣ 📂processor
  ┃ ┣ 📂objects
@@ -89,7 +95,8 @@ Most of objects/class/method/fields, even obevious, are described in detail due 
  ┃ ┣ 📜[Algo_Shortcut]Memory.py
  ┗ 📜Main.py
  ```
- - `./managers`: File and Plot management classes
+ - `./generators`: Generator classes (e.g. generating readme files, tests to run, etc.)
+ - `./managers`: File, Plot and Tests management classes
  - `./objects`: Objects for general usage, abstract classes
  - `./processor` or `./memory`:
     - `./objects`: Sub-objects used exclusively for one of algorightms
