@@ -5,8 +5,8 @@ The project includes implementations of [`CPU time scheduling algorithms`](https
 
 ## Running
 
-1. Clone the repository: `git clone https://github.com/USER/REPO.git`
-2. Navigate into the cloned repository: `cd REPO`
+1. Clone the repository: `git clone https://github.com/kajahl/os-sym-project.git`
+2. Navigate into the cloned repository: `cd os-sym-project`
 3. Install the required dependencies:`pip install -r requirements.txt`
 4. Run the main script with the appropriate arguments
 ```python main.py [options]```
