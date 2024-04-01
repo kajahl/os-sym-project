@@ -1,0 +1,5 @@
+basic2
+BasicTest2
+Basic test with parameters selected to check the operation of the algorithm (25 elements) - To be compared with manual simulation on paper
+3
+1 2 3 2 4 2 5 1 2 3 3 5 1 4 2 3 1 5 4 3 1 4 2 1 5

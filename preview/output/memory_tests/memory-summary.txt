@@ -1,0 +1,10 @@
+                     MemSize UniqProcCount QueLen  LFU  LRU FIFO
+random                    16            32   1024  337  356  356
+interleavedratio11        16            24    256   92   46   48
+interleavedmoreoften      16            24    554   83  100  136
+interleavedratio12        16            24    384  131   47   47
+interleavedplus           16            24    690  152  126  136
+basic2                     3             5     25   14   19   20
+game                      16            32    512  120   52   56
+interleaved               16            24    533   48   76   88
+basic1                     3             4     20    9   14    7
