@@ -40,18 +40,18 @@
       <td>3</td>
       <td>4</td>
       <td>20</td>
-      <td>7</td>
+      <td><b>7</b></td>
       <td>14</td>
       <td>9</td>
     </tr>
     <tr>
       <td>basic2</td>
-      <td>2</td>
       <td>3</td>
       <td>5</td>
       <td>25</td>
       <td>20</td>
       <td>19</td>
+      <td><b>14</b></td>
     </tr>
     <tr>
       <td>random</td>
@@ -60,7 +60,7 @@
       <td>1024</td>
       <td>356</td>
       <td>356</td>
-      <td>337</td>
+      <td><b>337</b></td>
     </tr>
     <tr>
       <td>game</td>
@@ -68,7 +68,7 @@
       <td>32</td>
       <td>512</td>
       <td>56</td>
-      <td>52</td>
+      <td><b>52</b></td>
       <td>120</td>
     </tr>
     <tr>
@@ -77,7 +77,7 @@
       <td>24</td>
       <td>256</td>
       <td>48</td>
-      <td>46</td>
+      <td><b>46</b></td>
       <td>92</td>
     </tr>
     <tr>
@@ -85,8 +85,8 @@
       <td>16</td>
       <td>24</td>
       <td>384</td>
-      <td>47</td>
-      <td>47</td>
+      <td><b>47</b></td>
+      <td><b>47</b></td>
       <td>131</td>
     </tr>
     <tr>
@@ -96,7 +96,7 @@
       <td>533</td>
       <td>88</td>
       <td>76</td>
-      <td>48</td>
+      <td><b>48</b></td>
     </tr>
     <tr>
       <td>interleavedmoreoften</td>
@@ -105,7 +105,7 @@
       <td>554</td>
       <td>136</td>
       <td>100</td>
-      <td>83</td>
+      <td><b>83</b></td>
     </tr>
     <tr>
       <td>interleavedplus</td>
@@ -113,7 +113,7 @@
       <td>24</td>
       <td>690</td>
       <td>136</td>
-      <td>126</td>
+      <td><b>126</b></td>
       <td>152</td>
     </tr>
   </tbody>
