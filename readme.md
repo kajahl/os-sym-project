@@ -22,6 +22,7 @@ You can also specify one of the following optional arguments to limit the action
 - `-S`: Only run simulations.
 - `-g`: Only generate graphs.
 - `-s`: Only generate summaries.
+- `-r`: Only generate readme files.
 
 If no optional argument is provided, all actions (simulations, graphs, summaries) will be performed.
 
