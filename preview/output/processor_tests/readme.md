@@ -29,10 +29,10 @@
     </tr>
     <tr>
       <th>Min</th>
-      <th>Średni</th>
+      <th>Avg</th>
       <th>Max</th>
       <th>Min</th>
-      <th>Średni</th>
+      <th>Avg</th>
       <th>Max</th>
       <th>FCFS</th>
       <th>LCFS</th>
